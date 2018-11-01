@@ -1,7 +1,11 @@
-# Playing-with-Graphs-in-R
+# Visualization of Movie Rating Dataset (R Programming)
 
-To implement learning outcomes of my udemy course - Histogram, Facets, Theme, Fonts
+Project to find out some useful insights from the Movie Rating Dataset of various Users. During this project I have implement Histogram, Facets, Theme, Fonts etc. concept of Visualization.
 
-Video for this : https://www.youtube.com/watch?v=T9Av1M4ILlU&t=5s
+The link of the course is https://www.udemy.com/r-programming/
 
-Udemy Course Followed : https://www.udemy.com/r-programming/
+My Certificate Link is https://www.udemy.com/certificate/UC-235B3PNL/
+
+YouTube URL (Video Demonstration) - https://www.youtube.com/watch?v=T9Av1M4ILlU&t=5s
+
+![alt_text](https://github.com/TDP4you/Playing-with-Graphs-in-R/blob/master/Screenshot_visualization_in_R.png)
