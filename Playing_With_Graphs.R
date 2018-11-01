@@ -20,7 +20,7 @@ colnames(dataset)
 #-- let start with simple histogram
 # if you dont have ggplot library run these commands i already have ggplot library
 #install.packages(ggplot2)
-#library(ggplot2)
+library(ggplot2)
 histogram <- ggplot(data = dataset, aes(x = CriticRating))
 histogram + geom_histogram(aes(fill = Genre), color = "black")
 
