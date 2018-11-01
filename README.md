@@ -8,4 +8,4 @@ My Certificate Link is https://www.udemy.com/certificate/UC-235B3PNL/
 
 YouTube URL (Video Demonstration) - https://www.youtube.com/watch?v=T9Av1M4ILlU&t=5s
 
-![alt_text](https://github.com/TDP4you/Playing-with-Graphs-in-R/blob/master/Screenshot_visualization_in_R.png)
+![alt_text](https://github.com/TDP4you/Playing-with-Graphs-in-R/blob/master/Screenshot_visualization_R.png)
